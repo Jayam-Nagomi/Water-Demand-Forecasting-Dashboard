@@ -27,8 +27,8 @@ This project implements a Long Short-Term Memory (LSTM) model to predict water d
 ## Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/Jayam-Nagomi/Water-Demand-Forecasting-Dashboard
+   cd Water-Demand-Forecasting-Dashboard
    ```
 2. **Install dependencies:**
    ```sh
