@@ -1,3 +1,5 @@
 [runner]
 fastReruns = false
 
+[theme]
+base="auto"
